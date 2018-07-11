@@ -107,7 +107,7 @@ yarn global add @vue/cli
 - CSSViewer
 - Evernote Web Clipper
 
-## Visual Studio Code
+## Visual Studio Code 확장프로그램
 
 - [Vue Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=changjoo-park.vscode-vue-devpack)
 - [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
