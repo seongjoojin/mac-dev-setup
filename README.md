@@ -6,7 +6,7 @@ https://support.apple.com/ko-kr/HT204904
 
 - command(⌘)-R : 이후 버전으로 업그레이드하지 않고 Mac에 설치되어 있던 최신 macOS를 설치합니다.
 - option-command-R : Mac과 호환되는 최신 macOS로 업그레이드합니다
-shift-option-command-R: Mac과 함께 제공되는 macOS 또는 현재 사용할 수 있는 macOS 중 최신 버전을 설치합니다.
+- shift-option-command-R: Mac과 함께 제공되는 macOS 또는 현재 사용할 수 있는 macOS 중 최신 버전을 설치합니다.
 
 
 ##### 자주 사용하는 프로그램 설치는 Homebrew 사용
