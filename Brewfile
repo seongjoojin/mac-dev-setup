@@ -23,9 +23,8 @@ cask "gitup"
 
 # brew cask install apps
 cask "tunnelbear"
-cask "popclip"
-cask "slack"
 cask "alfred"
+cask "bartender"
 
 # brew cask install browsers
 cask "google-chrome"
@@ -39,3 +38,10 @@ mas "Numbers", id: 409203825
 mas "Magnet", id: 441258766
 mas "Allkdic", id: 1033453958
 mas "KakaoTalk", id: 869223134
+mas "Pastebot", id: 1179623856
+mas "Evernote", id: 406056744
+mas "Bandizip", id: 1265704574
+mas "Slack", id: 803453959
+mas "Foldery", id: 815333099
+mas "PopClip", id: 445189367
+mas "Boom3D", id: 1233048948
