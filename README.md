@@ -1,6 +1,6 @@
 # Mac 환경 설정 모음
 
-##### 맥 초기화 방법
+#### 맥 초기화 방법
 
 https://support.apple.com/ko-kr/HT204904
 
