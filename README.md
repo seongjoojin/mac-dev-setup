@@ -153,6 +153,22 @@ yarn global add @vue/cli
 - [awesome-vue](https://github.com/vuejs/awesome-vue)
 - [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt)
 
+#### 기술 블로그
+
+- [kakao 기술 블로그](http://tech.kakao.com/)
+- [우아한형제들 기술 블로그](http://woowabros.github.io/)
+- [Naver D2 개발 블로그](https://d2.naver.com/home)
+- [줌인터넷 기술블로그](https://zuminternet.github.io/)
+- [티몬 개발블로그](https://tmondev.blog.me/)
+- [Meetup : NHN TOAST](http://meetup.toast.com/)
+- [조대협의 블로그](http://bcho.tistory.com/)
+- [조인석의 브런치](https://brunch.co.kr/@insuk)
+- [jojoldu](http://jojoldu.tistory.com/)
+- [소용환의 생각저장소](http://www.sauru.so/)
+- [Wisoft Lab.](http://wisoft.tistory.com/)
+- [개발 책추천](http://blog.ngelmaum.org/category/%EB%AC%B8%ED%99%94%EC%9D%B4%EC%95%BC%EA%B8%B0)
+- [기발자](https://brunch.co.kr/@brunch92ny)
+
 #### 기타
 
 - [CSS 방법론](https://gomdoreepooh.github.io/notes/smacss-bem-oocss)
