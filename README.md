@@ -14,6 +14,17 @@ https://support.apple.com/ko-kr/HT204904
 # Homebrew 설치
 /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
 
+# 이 저장소 클론
+git clone https://github.com/seongjoojin/mac-dev-setup
+cd mac-dev-setup
+
+# Brewfile 실행
+brew bundle
+```
+
+만약 Brewfile가 제대로 설치되지 않는다면 아래 명령어로 추가
+
+```
 # wget 설치
 brew install wget
 
