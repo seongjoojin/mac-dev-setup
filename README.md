@@ -92,7 +92,8 @@ yarn global add @vue/cli
 - Popclip
 - Magnet
 - Foldery
-- bandizip
+- Bandizip
+- Allkdic
 - Boom3d(예정)
 - [Bartender(예정)](https://www.macbartender.com/) : 메뉴바 정리 앱
 
