@@ -73,6 +73,7 @@ yarn global add @vue/cli
 
 ## 프로그램
 
+- [AppCleaner](http://freemacsoft.net/appcleaner/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Google Chrome](https://www.google.co.kr/chrome/index.html)
 - [Mozilla Firefox Developer Edition](https://www.mozilla.org/ko/firefox/developer/)
@@ -85,12 +86,17 @@ yarn global add @vue/cli
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
 - [itsycal](https://www.mowglii.com/itsycal/)
 - [virtualbox](https://www.virtualbox.org/) -> https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
+- [ridibooks](https://ridibooks.com/support/app/download)
+- [monosnap](https://www.monosnap.com/welcome)
 - Evernote
 - Popclip
 - Magnet
 - Foldery
 - bandizip
 - Boom3d(예정)
+- [Bartender(예정)](https://www.macbartender.com/) : 메뉴바 정리 앱
+
+참고 : https://github.com/iCHAIT/awesome-macOS
 
 ## 구글 확장 프로그램
 
