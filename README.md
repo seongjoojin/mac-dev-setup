@@ -8,7 +8,6 @@ https://support.apple.com/ko-kr/HT204904
 - option-command-R : Mac과 호환되는 최신 macOS로 업그레이드합니다
 - shift-option-command-R: Mac과 함께 제공되는 macOS 또는 현재 사용할 수 있는 macOS 중 최신 버전을 설치합니다.
 
-
 ##### 자주 사용하는 프로그램 설치는 Homebrew 사용
 
 ```
@@ -27,7 +26,6 @@ brew install node
 # yarn 설치
 brew install yarn
 ```
-
 
 ## 폰트
 
@@ -97,7 +95,7 @@ yarn global add @vue/cli
 ## 구글 확장 프로그램
 
 - TrafficLight
-- Vue.js devtools
+- Vue.js devtools : https://kr.vuejs.org/v2/api/index.html#devtools (app.js 설정)
 - Wappalyzer
 - CSS3 Generator
 - Site Palette
@@ -106,8 +104,32 @@ yarn global add @vue/cli
 - CSS Peeper
 - CSSViewer
 - Evernote Web Clipper
+- Pixlr Today
+- The Great Suspender
+- Awesome Screenshot
 
 ## Visual Studio Code 확장프로그램
 
 - [Vue Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=changjoo-park.vscode-vue-devpack)
 - [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
+
+## ETC
+
+#### 스타일 가이드
+
+- [awesome-style-guide](https://github.com/kciter/awesome-style-guide)
+
+#### 라이브러리들
+
+- [XEIcon](https://xpressengine.github.io/XEIcon/)
+- [Font Awesome](https://fontawesome.com/)
+- [Moment.js](https://momentjs.com/)
+- [awesome-vue](https://github.com/vuejs/awesome-vue)
+- [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt)
+
+#### 기타
+
+- [CSS 방법론](https://gomdoreepooh.github.io/notes/smacss-bem-oocss)
+- [Vue + ES6](https://joshua1988.github.io/es6-online-book/)
+- [HEX to RGB Converter](https://www.webpagefx.com/web-design/hex-to-rgb/)
+- [Webpack](https://d2.naver.com/helloworld/0239818)
