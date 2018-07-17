@@ -21,7 +21,7 @@ cask "zeplin"
 cask "virtualbox"
 cask "slack"
 #cask "github"
-#cask "gitup"
+cask "gitup"
 
 # brew cask install apps
 cask "tunnelbear"
