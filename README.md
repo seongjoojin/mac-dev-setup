@@ -107,6 +107,7 @@ yarn global add @vue/cli
 - Allkdic
 - Boom3d
 - [Bartender](https://www.macbartender.com/) : 메뉴바 정리 앱
+- [Gitup](http://gitup.co)
 
 참고 : https://github.com/iCHAIT/awesome-macOS
 
