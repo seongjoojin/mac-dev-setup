@@ -132,6 +132,10 @@ yarn global add @vue/cli
 - [Vue Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=changjoo-park.vscode-vue-devpack)
 - [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
 
+## Visual Studio Code 테마
+
+- [Snazzy Operator](https://marketplace.visualstudio.com/items?itemName=aaronthomas.vscode-snazzy-operator)
+
 ## ETC
 
 #### 스타일 가이드
