@@ -106,6 +106,7 @@ yarn global add @vue/cli
 - Bandizip
 - Allkdic
 - Boom3d
+- Trello
 - [Bartender](https://www.macbartender.com/) : 메뉴바 정리 앱
 - [Gitup](http://gitup.co)
 
