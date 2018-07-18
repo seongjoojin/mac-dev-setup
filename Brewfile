@@ -33,7 +33,7 @@ cask "google-chrome"
 cask "homebrew/cask-versions/firefox-developer-edition"
 
 # Mac Appstore
-mas "Xcode", id: 497799835
+mas "Trello", id: 1278508951
 mas "Pages", id: 409201541
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
@@ -47,3 +47,4 @@ mas "Bandizip", id: 1265704574
 mas "Foldery", id: 815333099
 mas "PopClip", id: 445189367
 mas "Boom3D", id: 1233048948
+mas "Xcode", id: 497799835
