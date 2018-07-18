@@ -98,7 +98,7 @@ yarn global add @vue/cli
 - [itsycal](https://www.mowglii.com/itsycal/)
 - [virtualbox](https://www.virtualbox.org/) -> https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 - [ridibooks](https://ridibooks.com/support/app/download)
-- [monosnap](https://www.monosnap.com/welcome)
+- [XMind: ZEN - Mind Mapping](https://itunes.apple.com/us/app/xmind-zen-mind-mapping/id1327661892?mt=12)
 - Evernote
 - Popclip
 - Magnet
