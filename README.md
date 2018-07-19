@@ -100,14 +100,14 @@ yarn global add @vue/cli
 - [ridibooks](https://ridibooks.com/support/app/download)
 - [XMind: ZEN - Mind Mapping](https://itunes.apple.com/us/app/xmind-zen-mind-mapping/id1327661892?mt=12)
 - [MindNode 5](https://itunes.apple.com/app/mindnode-5/id1289197285?l=en&mt=12&ign-mpt=uo%3D4)
-- Evernote
+- [Evernote](https://itunes.apple.com/us/app/evernote/id281796108?mt=8)
 - Popclip
-- Magnet
+- [Magnet](https://itunes.apple.com/us/app/magnet/id441258766?mt=12)
 - Foldery
 - Bandizip
 - Allkdic
 - Boom3d
-- Trello
+- [Trello](https://itunes.apple.com/us/app/trello/id1278508951?mt=12)
 - [Bartender](https://www.macbartender.com/) : 메뉴바 정리 앱
 - [Gitup](http://gitup.co)
 
