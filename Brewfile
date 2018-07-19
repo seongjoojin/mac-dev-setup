@@ -47,4 +47,5 @@ mas "Bandizip", id: 1265704574
 mas "Foldery", id: 815333099
 mas "PopClip", id: 445189367
 mas "Boom3D", id: 1233048948
+mas "MindNode 5", id: 1289197285
 mas "Xcode", id: 497799835
