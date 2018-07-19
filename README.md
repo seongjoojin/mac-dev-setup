@@ -99,6 +99,7 @@ yarn global add @vue/cli
 - [virtualbox](https://www.virtualbox.org/) -> https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 - [ridibooks](https://ridibooks.com/support/app/download)
 - [XMind: ZEN - Mind Mapping](https://itunes.apple.com/us/app/xmind-zen-mind-mapping/id1327661892?mt=12)
+- [MindNode 5](https://itunes.apple.com/app/mindnode-5/id1289197285?l=en&mt=12&ign-mpt=uo%3D4)
 - Evernote
 - Popclip
 - Magnet
