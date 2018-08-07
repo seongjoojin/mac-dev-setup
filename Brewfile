@@ -24,7 +24,7 @@ cask "slack"
 cask "gitup"
 
 # brew cask install apps
-cask "mounty"
+# cask "mounty"
 cask "tunnelbear"
 cask "alfred"
 cask "bartender"
