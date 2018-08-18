@@ -111,6 +111,7 @@ yarn global add @vue/cli
 - [Bartender](https://www.macbartender.com/) : 메뉴바 정리 앱
 - [Gitup](http://gitup.co)
 - [mounty](http://www.enjoygineering.com/mounty/)
+- [cakebrew](https://www.cakebrew.com/)
 
 참고 : https://github.com/iCHAIT/awesome-macOS
 
