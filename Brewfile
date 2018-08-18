@@ -28,6 +28,7 @@ cask "gitup"
 cask "tunnelbear"
 cask "alfred"
 cask "bartender"
+cask "cakebrew"
 
 # brew cask install browsers
 cask "google-chrome"
