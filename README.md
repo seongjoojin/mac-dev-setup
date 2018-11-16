@@ -130,6 +130,7 @@ yarn global add @vue/cli
 - Pixlr Today
 - The Great Suspender
 - Awesome Screenshot
+- VisBug (디자인와 )
 
 ## Visual Studio Code 확장프로그램
 
