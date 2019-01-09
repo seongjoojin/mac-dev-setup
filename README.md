@@ -71,7 +71,7 @@ sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/to
 
 ```
 git config --global user.name "Seongjoo Jin"
-git config --global user.email "qpyou1234@naver.com"
+git config --global user.email "evanjin8@gmail.com"
 ```
 
 ## 언어
