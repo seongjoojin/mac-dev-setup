@@ -8,6 +8,9 @@ https://support.apple.com/ko-kr/HT204904
 - option-command-R : Mac과 호환되는 최신 macOS로 업그레이드합니다
 - shift-option-command-R: Mac과 함께 제공되는 macOS 또는 현재 사용할 수 있는 macOS 중 최신 버전을 설치합니다.
 
+https://pqrs.org/osx/karabiner/
+키보드 맵핑 변경
+
 ##### 자주 사용하는 프로그램 설치는 Homebrew 사용
 
 ```
@@ -130,7 +133,7 @@ yarn global add @vue/cli
 - Pixlr Today
 - The Great Suspender
 - Awesome Screenshot
-- VisBug (디자인와 )
+- VisBug (디자인과 협업하기 좋음)
 
 ## Visual Studio Code 확장프로그램
 
