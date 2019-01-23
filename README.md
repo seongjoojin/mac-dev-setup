@@ -87,6 +87,7 @@ yarn global add @vue/cli
 
 ## 프로그램
 
+- [gitkraken](https://www.gitkraken.com/git-client)
 - [AppCleaner](http://freemacsoft.net/appcleaner/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Google Chrome](https://www.google.co.kr/chrome/index.html)
@@ -94,7 +95,6 @@ yarn global add @vue/cli
 - [Dash](https://kapeli.com/dash)
 - [Postman](https://www.getpostman.com/)
 - [TunnelBear](https://www.tunnelbear.com/)
-- [SourceTree](https://www.sourcetreeapp.com/)
 - [Sequel Pro](https://www.sequelpro.com/) - MySQL
 - [Slack](https://slack.com/)
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
