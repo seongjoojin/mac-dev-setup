@@ -7,8 +7,8 @@ brew "zsh-completions"
 brew "git"
 brew "mas"
 brew "wget"
-brew "node"
-brew "yarn"
+#brew "node"
+#brew "yarn"
 
 # brew cask install dev-tools
 cask "iterm2"
@@ -21,7 +21,7 @@ cask "zeplin"
 cask "virtualbox"
 cask "slack"
 #cask "github"
-cask "gitup"
+#cask "gitup"
 
 # brew cask install apps
 # cask "mounty"
@@ -32,6 +32,7 @@ cask "cakebrew"
 
 # brew cask install browsers
 cask "google-chrome"
+cask "chromium"
 cask "homebrew/cask-versions/firefox-developer-edition"
 
 # Mac Appstore
@@ -45,9 +46,9 @@ mas "KakaoTalk", id: 869223134
 mas "Pastebot", id: 1179623856
 mas "Evernote", id: 406056744
 mas "Bandizip", id: 1265704574
-# mas "Slack", id: 803453959
+#mas "Slack", id: 803453959
 mas "Foldery", id: 815333099
 mas "PopClip", id: 445189367
 mas "Boom3D", id: 1233048948
-mas "MindNode 5", id: 1289197285
+#mas "MindNode 5", id: 1289197285
 mas "Xcode", id: 497799835
