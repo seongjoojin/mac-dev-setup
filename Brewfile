@@ -35,6 +35,9 @@ cask "google-chrome"
 cask "chromium"
 cask "homebrew/cask-versions/firefox-developer-edition"
 
+# brew cask install screensaver
+cask "brooklyn"
+
 # Mac Appstore
 mas "Trello", id: 1278508951
 mas "Pages", id: 409201541
