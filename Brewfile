@@ -2,8 +2,7 @@
 tap "caskroom/cask"
 
 # brew installs
-brew "zsh"
-brew "zsh-completions"
+brew "fish"
 brew "git"
 brew "mas"
 brew "wget"
