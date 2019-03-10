@@ -10,7 +10,7 @@ brew "wget"
 #brew "node"
 brew "yarn"
 brew "mysql@5.7"
-brew "mongodb-community@3.6"
+brew "mongodb@3.6"
 
 # brew cask install dev-tools
 cask "iterm2"
