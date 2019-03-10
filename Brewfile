@@ -29,6 +29,7 @@ cask "tunnelbear"
 cask "alfred"
 cask "bartender"
 cask "cakebrew"
+cask "keepingyouawake"
 
 # brew cask install browsers
 cask "google-chrome"
