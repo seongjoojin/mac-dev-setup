@@ -49,21 +49,21 @@ brew install yarn
 
 - [iTerm2](https://www.iterm2.com/)
 - iTerm2 Color Scheme - [Adventure Time](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/AdventureTime.itermcolors)
-- zsh
+- fish
 
 ```
-# zsh 설치
+# fishshell 설치
 brew install zsh
 
-# 기본 터미널 zsh로 변경
+# 기본 터미널 fishshell로 변경
 chsh -s `which zsh`
 ```
 
-- oh-my-zsh
+- oh-my-fish
 
 ```
-# oh-my-zsh (wget) 설치
-sh -c "$(wget https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh -O -)"
+# oh-my-fish 설치
+curl -L https://get.oh-my.fish | fish
 ```
 
 ## 커맨드라인 인터페이스 도구
