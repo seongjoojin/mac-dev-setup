@@ -53,10 +53,10 @@ brew install yarn
 
 ```
 # fishshell 설치
-brew install zsh
+brew install fish
 
 # 기본 터미널 fishshell로 변경
-chsh -s `which zsh`
+chsh -s `which fish`
 ```
 
 - oh-my-fish
