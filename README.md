@@ -34,9 +34,6 @@ brew install wget
 # git 설치
 brew install git
 
-# node 설치
-brew install node
-
 # yarn 설치
 brew install yarn
 ```
@@ -58,13 +55,16 @@ brew install fish
 # 기본 터미널 fishshell로 변경
 chsh -s `which fish`
 ```
-
 - oh-my-fish
 
 ```
 # oh-my-fish 설치
 curl -L https://get.oh-my.fish | fish
 ```
+
+- fish shell config 파일 작성
+
+`sudo vi ~/.config/fish/config.fish`
 
 ## 커맨드라인 인터페이스 도구
 
