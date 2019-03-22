@@ -26,7 +26,7 @@ cask "slack"
 
 # brew cask install apps
 # cask "mounty"
-cask "tunnelbear"
+# cask "tunnelbear"
 cask "alfred"
 cask "bartender"
 cask "cakebrew"
