@@ -53,7 +53,8 @@ brew install yarn
 brew install fish
 
 # 기본 터미널 fishshell로 변경
-chsh -s `which fish`
+echo "/usr/local/bin/fish" | sudo tee -a /etc/shells
+chsh -s /usr/local/bin/fish
 ```
 - oh-my-fish
 
