@@ -117,6 +117,8 @@ yarn global add @vue/cli
 - [mounty](http://www.enjoygineering.com/mounty/)
 - [cakebrew](https://www.cakebrew.com/)
 - [docker](https://hub.docker.com/editions/community/docker-ce-desktop-mac)
+- [gitkraken](https://www.gitkraken.com)
+- [miniconda](https://docs.conda.io/en/latest/miniconda.html)
 
 참고 : https://github.com/iCHAIT/awesome-macOS
 
