@@ -120,8 +120,7 @@ yarn global add @vue/cli
 - [docker](https://hub.docker.com/editions/community/docker-ce-desktop-mac)
 - [gitkraken](https://www.gitkraken.com)
 - [miniconda](https://docs.conda.io/en/latest/miniconda.html)
-  - 설치 : `$ bash Miniconda3-latest-Linux-x86_64.sh`
-  - 실행경로 추가 : `export PATH=$HOME/miniconda3/bin:$PATH`
+  - 설치 : `$ ash Miniconda3-latest-MacOSX-x86_64.sh`
 
 참고 : https://github.com/iCHAIT/awesome-macOS
 
