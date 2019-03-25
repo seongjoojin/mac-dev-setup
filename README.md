@@ -121,6 +121,7 @@ yarn global add @vue/cli
 - [gitkraken](https://www.gitkraken.com)
 - [miniconda](https://docs.conda.io/en/latest/miniconda.html)
   - 설치 : `$ bash Miniconda3-latest-MacOSX-x86_64.sh`
+  - 설정 추가 : `source /Users/jinseongju/miniconda3/etc/profile.d/conda.sh`
 
 참고 : https://github.com/iCHAIT/awesome-macOS
 
