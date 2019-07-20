@@ -97,10 +97,9 @@ yarn global add @vue/cli
 - [Dash](https://kapeli.com/dash)
 - [Postman](https://www.getpostman.com/)
 - [TunnelBear](https://www.tunnelbear.com/)
-- [Sequel Pro](https://www.sequelpro.com/) - MySQL
 - [Slack](https://slack.com/)
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
-- [itsycal](https://www.mowglii.com/itsycal/)
+- [dato] (https://apps.apple.com/us/app/dato/id1470584107?mt=12)
 - [virtualbox](https://www.virtualbox.org/) -> https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 - [ridibooks](https://ridibooks.com/support/app/download)
 - [XMind: ZEN - Mind Mapping](https://itunes.apple.com/us/app/xmind-zen-mind-mapping/id1327661892?mt=12)
@@ -114,11 +113,9 @@ yarn global add @vue/cli
 - Boom3d
 - [Trello](https://itunes.apple.com/us/app/trello/id1278508951?mt=12)
 - [Bartender](https://www.macbartender.com/) : 메뉴바 정리 앱
-- [Gitup](http://gitup.co)
 - [mounty](http://www.enjoygineering.com/mounty/)
 - [cakebrew](https://www.cakebrew.com/)
 - [docker](https://hub.docker.com/editions/community/docker-ce-desktop-mac)
-- [gitkraken](https://www.gitkraken.com)
 - [miniconda](https://docs.conda.io/en/latest/miniconda.html)
   - 설치 : `$ bash Miniconda3-latest-MacOSX-x86_64.sh`
   - 터미널에서 실행 : `export PATH="$HOME/miniconda3/bin:$PATH"`
