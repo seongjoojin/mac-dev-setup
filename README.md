@@ -111,6 +111,7 @@ yarn global add @vue/cli
 - Bandizip
 - Allkdic
 - [iGlance](https://github.com/iglance/iGlance) : macOS System Monitor for the Status Bar
+- [things3](https://culturedcode.com/things/mac/appstore/)
 - [Trello](https://itunes.apple.com/us/app/trello/id1278508951?mt=12)
 - [Bartender](https://www.macbartender.com/) : 메뉴바 정리 앱
 - [mounty](http://www.enjoygineering.com/mounty/)
