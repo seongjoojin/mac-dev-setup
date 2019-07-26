@@ -1,5 +1,13 @@
-# set up brew cask
+# tap brew
 tap "caskroom/cask"
+tap "buo/cask-upgrade"
+tap "caskroom/versions"
+tap "homebrew/bundle"
+tap "homebrew/core"
+tap "homebrew/services"
+tap "pivotal/tap"
+
+tap "caskroom/fonts"
 
 # brew installs
 brew "fish"
@@ -8,30 +16,42 @@ brew "mas"
 brew "wget"
 #brew "node"
 brew "yarn"
+brew "jq"
+brew "tree"
+#brew "postgresql"
 #brew "mysql@5.7"
 #brew "mongodb@3.6"
 
 # brew cask install dev-tools
 cask "iterm2"
-cask "dash"
 cask "postman"
 #cask "sourcetree"
 cask "visual-studio-code"
-cask "sequel-pro"
 cask "zeplin"
-#cask "virtualbox"
-cask "slack"
-#cask "github"
-#cask "gitup"
+#cask "mysqlworkbench"
+cask "gitkraken"
+#cask "pgadmin4"
+#cask "slack"
+cask "docker"
 
 # brew cask install apps
 # cask "mounty"
-# cask "tunnelbear"
 cask "alfred"
-cask "bartender"
 cask "cakebrew"
 cask "keepingyouawake"
 cask "iglance"
+cask "cakebrew"
+cask "karabiner-elements"
+cask "appcleaner"
+cask "notion"
+cask "ccleaner"
+cask "avast-security"
+
+# fonts
+cask 'font-d2coding'
+cask 'font-nanumgothic'
+cask 'font-nanummyeongjo'
+cask 'font-source-code-pro'
 
 # brew cask install browsers
 cask "google-chrome"
@@ -42,7 +62,9 @@ cask "homebrew/cask-versions/firefox-developer-edition"
 cask "brooklyn"
 
 # Mac Appstore
+mas "LastPass Password Manager", id: 926036361
 mas "Trello", id: 1278508951
+mas "Things3", id: 904280696
 mas "Pages", id: 409201541
 mas "Keynote", id: 409183694
 mas "Numbers", id: 409203825
@@ -50,11 +72,16 @@ mas "Magnet", id: 441258766
 mas "Allkdic", id: 1033453958
 mas "KakaoTalk", id: 869223134
 mas "Pastebot", id: 1179623856
-mas "Evernote", id: 406056744
+#mas "Evernote", id: 406056744
 mas "Bandizip", id: 1265704574
-#mas "Slack", id: 803453959
+mas "Slack", id: 803453959
 mas "Foldery", id: 815333099
 mas "PopClip", id: 445189367
-mas "Boom3D", id: 1233048948
-#mas "MindNode 5", id: 1289197285
+#mas "Boom3D", id: 1233048948
+mas "MindNode 5", id: 1289197285
+mas "HwpMac2014VIEWER", id: 416746898
+mas "Unicorn Blocker:Adblock", id: 1231935892
+mas "Telegram", id: 747648890
+mas "Affinity Photo", id: 824183456
+mas "Affinity Designer", id: 824171161
 mas "Xcode", id: 497799835
