@@ -88,6 +88,7 @@ yarn global add @vue/cli
 
 ## 프로그램
 
+- [Dato](https://apps.apple.com/us/app/dato/id1470584107?mt=12)
 - [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn)
 - [gitkraken](https://www.gitkraken.com/git-client)
 - [AppCleaner](http://freemacsoft.net/appcleaner/)
