@@ -31,6 +31,7 @@ cask "alfred"
 cask "bartender"
 cask "cakebrew"
 cask "keepingyouawake"
+cask "iglance"
 
 # brew cask install browsers
 cask "google-chrome"
