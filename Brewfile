@@ -71,7 +71,8 @@ mas "Numbers", id: 409203825
 mas "Magnet", id: 441258766
 mas "Allkdic", id: 1033453958
 mas "KakaoTalk", id: 869223134
-mas "Pastebot", id: 1179623856
+mas "PopClip", id: 445189367
+#mas "Pastebot", id: 1179623856
 #mas "Evernote", id: 406056744
 mas "Bandizip", id: 1265704574
 mas "Slack", id: 803453959
