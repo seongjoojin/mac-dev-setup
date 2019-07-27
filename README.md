@@ -40,7 +40,8 @@ brew install yarn
 
 ## 폰트
 
-- [D2 Conding](https://github.com/naver/d2codingfont) : 코딩시 사용 (에디터 폰트설정) 
+- [D2 Conding](https://github.com/naver/d2codingfont) : 코딩시 사용 (에디터 폰트설정)
+- [FiraCode](https://github.com/tonsky/FiraCode)
 
 ## 터미널
 
@@ -95,22 +96,19 @@ yarn global add @vue/cli
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Google Chrome](https://www.google.co.kr/chrome/index.html)
 - [Mozilla Firefox Developer Edition](https://www.mozilla.org/ko/firefox/developer/)
-- [Dash](https://kapeli.com/dash)
 - [Postman](https://www.getpostman.com/)
 - [TunnelBear](https://www.tunnelbear.com/)
 - [Slack](https://slack.com/)
 - [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
-- [dato] (https://apps.apple.com/us/app/dato/id1470584107?mt=12)
 - [virtualbox](https://www.virtualbox.org/) -> https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 - [ridibooks](https://ridibooks.com/support/app/download)
-- [XMind: ZEN - Mind Mapping](https://itunes.apple.com/us/app/xmind-zen-mind-mapping/id1327661892?mt=12)
 - [MindNode 5](https://itunes.apple.com/app/mindnode-5/id1289197285?l=en&mt=12&ign-mpt=uo%3D4)
 - [Evernote](https://itunes.apple.com/us/app/evernote/id281796108?mt=8)
-- Popclip
+- [Popclip](https://apps.apple.com/kr/app/popclip/id445189367?mt=12)
 - [Magnet](https://itunes.apple.com/us/app/magnet/id441258766?mt=12)
-- Foldery
-- Bandizip
-- Allkdic
+- [Foldery](https://apps.apple.com/kr/app/foldery/id815333099?mt=12)
+- [Bandizip](https://apps.apple.com/kr/app/반디집-압축-및-압축해제-프로그램/id1265704574?mt=12)
+- [Allkdic](https://apps.apple.com/kr/app/allkdic-handy-dictionary-in-status-bar/id1033453958?l=en&mt=12)
 - [iGlance](https://github.com/iglance/iGlance) : macOS System Monitor for the Status Bar
 - [things3](https://culturedcode.com/things/mac/appstore/)
 - [Trello](https://itunes.apple.com/us/app/trello/id1278508951?mt=12)
@@ -132,12 +130,6 @@ yarn global add @vue/cli
 - CSS3 Generator
 - Site Palette
 - React Developer Tools
-- JavaScript Errors Notifier
-- CSS Peeper
-- CSSViewer
-- Evernote Web Clipper
-- Pixlr Today
-- The Great Suspender
 - Awesome Screenshot
 - VisBug (디자인과 협업하기 좋음)
 - Momentum
@@ -146,7 +138,12 @@ yarn global add @vue/cli
 ## Visual Studio Code 확장프로그램
 
 - [Vue Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=changjoo-park.vscode-vue-devpack)
-- [Reactjs code snippets](https://marketplace.visualstudio.com/items?itemName=xabikos.ReactSnippets)
+- [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
+- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+- [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
+- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+- [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
+- [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 
 ## Visual Studio Code 테마
 
