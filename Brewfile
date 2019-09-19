@@ -31,6 +31,7 @@ cask "zeplin"
 #cask "mysqlworkbench"
 cask "gitkraken"
 #cask "pgadmin4"
+#cask "mongodb-compass"
 #cask "slack"
 cask "docker"
 
