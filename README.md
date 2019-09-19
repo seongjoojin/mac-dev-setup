@@ -64,6 +64,9 @@ chsh -s /usr/local/bin/fish
 curl -L https://get.oh-my.fish | fish
 ```
 
+oh-my-fish 테마 설정
+https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md
+
 - fish shell config 파일 작성
 
 `sudo vi ~/.config/fish/config.fish`
