@@ -134,6 +134,7 @@ yarn global add @vue/cli
 - VisBug (디자인과 협업하기 좋음)
 - Momentum
 - Octotree (깃허브 소스 보기)
+- Great Suspender (탭 관리)
 
 ## Visual Studio Code 확장프로그램
 
