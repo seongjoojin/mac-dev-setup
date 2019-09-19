@@ -20,7 +20,7 @@ brew "jq"
 brew "tree"
 #brew "postgresql"
 #brew "mysql@5.7"
-#brew "mongodb@3.6"
+#brew "mongodb"
 
 # brew cask install dev-tools
 cask "iterm2"
