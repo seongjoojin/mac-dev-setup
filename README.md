@@ -90,6 +90,12 @@ git config --global user.email "evanjin8@gmail.com"
 yarn global add @vue/cli
 ```
 
+## 추가 설치 프로그램
+
+- [docker](https://hub.docker.com/?overlay=onboarding)
+- [postgresapp](https://postgresapp.com/downloads.html)
+- [pgadmin](https://www.pgadmin.org/download/)
+
 ## 프로그램
 
 - [Dato](https://apps.apple.com/us/app/dato/id1470584107?mt=12)
