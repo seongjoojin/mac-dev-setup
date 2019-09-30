@@ -65,6 +65,7 @@ cask "brooklyn"
 
 # Mac Appstore
 mas "Spark - Email App by Readdle", id: 1176895641
+mas "Bear", id: 1091189122
 mas "LastPass Password Manager", id: 926036361
 mas "Trello", id: 1278508951
 mas "Things3", id: 904280696
