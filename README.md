@@ -1,5 +1,9 @@
 # Mac 환경 설정 모음
 
+#### 개발자를 위한 OS X(>= Catalina) 설정
+
+https://www.sangkon.com/osx-setting-for-developer/
+
 #### 맥 초기화 방법
 
 https://support.apple.com/ko-kr/HT204904
