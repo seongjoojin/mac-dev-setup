@@ -171,14 +171,6 @@ yarn global add @vue/cli
 
 - [awesome-style-guide](https://github.com/kciter/awesome-style-guide)
 
-#### cheatsheet
-
-- [ES6 cheatsheet](https://devhints.io/es6)
-- [Sass cheatsheet](https://devhints.io/sass)
-- [Vuejs cheatsheet](https://vuejs-tips.github.io/cheatsheet/)
-- [vuex cheatsheet](https://changjoo-park.github.io/vuex-cheatsheet/)
-- [Flex cheatsheet](https://yoksel.github.io/flex-cheatsheet/)
-
 #### 라이브러리들
 
 - [XEIcon](https://xpressengine.github.io/XEIcon/)
@@ -209,4 +201,4 @@ yarn global add @vue/cli
 - [Vue + ES6](https://joshua1988.github.io/es6-online-book/)
 - [HEX to RGB Converter](https://www.webpagefx.com/web-design/hex-to-rgb/)
 - [Webpack](https://d2.naver.com/helloworld/0239818)
-- [React Developer Roadmap](https://github.com/adam-golab/react-developer-roadmap)
+- [더 나은 웹](https://github.com/0vv/betterweb.kr)
