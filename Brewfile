@@ -60,6 +60,7 @@ cask 'font-fira-code'
 cask "google-chrome"
 cask "chromium"
 cask "homebrew/cask-versions/firefox-developer-edition"
+cask "brave-browser"
 
 # brew cask install screensaver
 cask "brooklyn"
