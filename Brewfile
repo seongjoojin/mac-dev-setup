@@ -48,6 +48,7 @@ cask "appcleaner"
 cask "notion"
 cask "ccleaner"
 cask "avast-security"
+cask "signal"
 
 # fonts
 cask 'font-d2coding'
