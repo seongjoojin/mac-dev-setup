@@ -21,8 +21,12 @@ brew "tree"
 #brew "postgresql"
 #brew "mysql@5.7"
 #brew "mongodb"
+#brew "git-flow"
+#brew "python3"
+#brew "watchman"
 
 # brew cask install dev-tools
+cask "ngrok"
 cask "iterm2"
 cask "postman"
 #cask "sourcetree"
@@ -35,6 +39,8 @@ cask "fork"
 #cask "mongodb-compass"
 #cask "slack"
 cask "docker"
+#tap "adoptopenjdk/openjdk"
+#cask "adoptopenjdk8"
 
 # brew cask install apps
 # cask "mounty"
