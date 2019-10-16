@@ -151,7 +151,7 @@ yarn global add @vue/cli
 - Octotree (깃허브 소스 보기)
 - Great Suspender (탭 관리)
 
-## vsc 추가 설정
+## Visual Studio Code 추가 설정
 
 - [EditorConfig](https://editorconfig.org) 설정 - https://gist.github.com/seongjoojin/7c664b2fd78aa526924c1d746df52ab3
 - typescriptreact snippet - https://gist.github.com/seongjoojin/c0d9220c371dde09f92c0610be52ba76
@@ -169,6 +169,7 @@ yarn global add @vue/cli
 ## Visual Studio Code 테마
 
 - [Snazzy Operator](https://marketplace.visualstudio.com/items?itemName=aaronthomas.vscode-snazzy-operator)
+- [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
 
 ## ETC
 
