@@ -26,6 +26,7 @@ brew "watchman"
 # brew cask install dev-tools
 cask "bartender"
 cask "cleanmymac"
+cask "istat-menus"
 cask "mongodb"
 cask "ngrok"
 cask "iterm2"
