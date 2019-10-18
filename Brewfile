@@ -1,60 +1,60 @@
 # tap brew
-tap "caskroom/cask"
+tap "homebrew/cask"
 tap "buo/cask-upgrade"
-tap "caskroom/versions"
+tap "homebrew/cask-versions"
 tap "homebrew/bundle"
 tap "homebrew/core"
 tap "homebrew/services"
-tap "pivotal/tap"
-
-tap "caskroom/fonts"
+tap "homebrew/cask-drivers"
+tap "homebrew/cask-fonts"
 
 # brew installs
 brew "fish"
 brew "git"
 brew "mas"
 brew "wget"
-#brew "node"
+brew "node"
 brew "yarn"
 brew "jq"
 brew "tree"
-#brew "postgresql"
-#brew "mysql@5.7"
-#brew "mongodb"
+brew "postgresql"
+brew "mysql@5.7"
 #brew "git-flow"
-#brew "python3"
-#brew "watchman"
+brew "python3"
+brew "watchman"
 
 # brew cask install dev-tools
+cask "mongodb"
 cask "ngrok"
 cask "iterm2"
 cask "postman"
-#cask "sourcetree"
+cask "sourcetree"
 cask "visual-studio-code"
 cask "zeplin"
-#cask "mysqlworkbench"
-cask "fork"
-#cask "Postgres"
-#cask "pgadmin4"
-#cask "mongodb-compass"
+cask "mysqlworkbench"
+#cask "fork"
+cask "Postgres"
+cask "pgadmin4"
+cask "mongodb-compass"
 #cask "slack"
 cask "docker"
-#tap "adoptopenjdk/openjdk"
-#cask "adoptopenjdk8"
+tap "adoptopenjdk/openjdk"
+cask "adoptopenjdk8"
 
 # brew cask install apps
 # cask "mounty"
 cask "alfred"
 cask "cakebrew"
 cask "keepingyouawake"
-cask "iglance"
-cask "cakebrew"
-cask "karabiner-elements"
+#cask "iglance"
+#cask "cakebrew"
+#cask "karabiner-elements"
 cask "appcleaner"
 cask "notion"
 cask "ccleaner"
 cask "avast-security"
-cask "signal"
+#cask "signal"
+cask "homebrew/cask/notion"
 
 # fonts
 cask 'font-d2coding'
@@ -69,9 +69,6 @@ cask "chromium"
 cask "homebrew/cask-versions/firefox-developer-edition"
 cask "brave-browser"
 
-# brew cask install screensaver
-cask "brooklyn"
-
 # Mac Appstore
 mas "Spark - Email App by Readdle", id: 1176895641
 mas "Bear", id: 1091189122
@@ -85,7 +82,7 @@ mas "Magnet", id: 441258766
 mas "Allkdic", id: 1033453958
 mas "KakaoTalk", id: 869223134
 mas "PopClip", id: 445189367
-#mas "Pastebot", id: 1179623856
+mas "Pastebot", id: 1179623856
 #mas "Evernote", id: 406056744
 mas "Bandizip", id: 1265704574
 mas "Slack", id: 803453959
