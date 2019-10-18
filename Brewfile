@@ -24,6 +24,7 @@ brew "python3"
 brew "watchman"
 
 # brew cask install dev-tools
+cask "bartender"
 cask "mongodb"
 cask "ngrok"
 cask "iterm2"
@@ -39,7 +40,7 @@ cask "mongodb-compass"
 #cask "slack"
 cask "docker"
 tap "adoptopenjdk/openjdk"
-cask "adoptopenjdk8"
+cask "homebrew/cask-versions/adoptopenjdk8"
 
 # brew cask install apps
 # cask "mounty"
