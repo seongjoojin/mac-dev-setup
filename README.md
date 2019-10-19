@@ -81,6 +81,20 @@ https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md
 
 `sudo vi ~/.config/fish/config.fish`
 
+- oh-my-zsh
+
+```
+# oh-my-zsh 설치
+sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+```
+
+oh-my-zsh 테마 설정
+https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
+
+- zsh shell config 파일 작성
+
+`sudo vi ~/.zshrc`
+
 ## 커맨드라인 인터페이스 도구
 
 - [nvm](https://github.com/creationix/nvm) : 노드 버전 관리
