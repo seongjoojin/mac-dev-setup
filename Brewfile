@@ -10,6 +10,7 @@ tap "homebrew/cask-fonts"
 
 # brew installs
 brew "fish"
+brew "starship"
 brew "git"
 brew "mas"
 brew "wget"
