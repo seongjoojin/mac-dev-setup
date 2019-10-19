@@ -52,6 +52,7 @@ cask "homebrew/cask-versions/adoptopenjdk8"
 # brew cask install apps
 # cask "mounty"
 cask "alfred"
+cask "bitwarden"
 cask "keepingyouawake"
 #cask "iglance"
 #cask "cakebrew"
