@@ -193,6 +193,10 @@ yarn global add @vue/cli
 
 ## ETC
 
+#### 디자인 툴
+
+- [figma](https://www.figma.com/)
+
 #### 스타일 가이드
 
 - [awesome-style-guide](https://github.com/kciter/awesome-style-guide)
