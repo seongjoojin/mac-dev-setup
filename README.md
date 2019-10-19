@@ -197,6 +197,7 @@ yarn global add @vue/cli
 
 - [figma](https://www.figma.com/)
 - [adobe xd](https://www.adobe.com/kr/products/xd.html)
+- [sketch](https://www.sketch.com)
 
 #### 스타일 가이드
 
