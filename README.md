@@ -154,6 +154,7 @@ yarn global add @vue/cli
 - [miniconda](https://docs.conda.io/en/latest/miniconda.html)
   - 설치 : `$ bash Miniconda3-latest-MacOSX-x86_64.sh`
   - 터미널에서 실행 : `export PATH="$HOME/miniconda3/bin:$PATH"`
+- [Sniper](https://github.com/sniper-internet/Sniper-desktop-release)
 
 참고 : https://github.com/iCHAIT/awesome-macOS
 
