@@ -81,7 +81,8 @@ cask "brave-browser"
 # Mac Appstore
 mas "Spark - Email App by Readdle", id: 1176895641
 mas "Bear", id: 1091189122
-mas "LastPass Password Manager", id: 926036361
+#mas "LastPass Password Manager", id: 926036361
+mas "Monity", id: 915542151
 mas "Trello", id: 1278508951
 mas "Things3", id: 904280696
 mas "Pages", id: 409201541
