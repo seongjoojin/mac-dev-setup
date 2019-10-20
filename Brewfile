@@ -63,6 +63,7 @@ cask "ccleaner"
 cask "avast-security"
 #cask "signal"
 cask "homebrew/cask/notion"
+cask "iina"
 
 # fonts
 cask 'font-d2coding'
