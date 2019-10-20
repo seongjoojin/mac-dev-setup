@@ -83,6 +83,7 @@ mas "Spark - Email App by Readdle", id: 1176895641
 mas "Bear", id: 1091189122
 #mas "LastPass Password Manager", id: 926036361
 mas "Monity", id: 915542151
+mas "미세몬 - 미세먼지, 대기오염 위젯 (MiseMon)", id: 1370976940
 mas "Trello", id: 1278508951
 mas "Things3", id: 904280696
 mas "Pages", id: 409201541
