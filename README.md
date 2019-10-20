@@ -77,6 +77,14 @@ curl -L https://get.oh-my.fish | fish
 oh-my-fish 테마 설정
 https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md
 
+```
+# zsh-syntax-highlighting
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+
+# zsh-autosuggestions
+git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
+```
+
 - fish shell config 파일 작성
 
 `sudo vi ~/.config/fish/config.fish`
