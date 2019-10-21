@@ -23,8 +23,8 @@
 - https://bitbucket.org/product
 
 ## 클라이언트
-https://insomnia.rest  (REST)
-https://altair.sirmuel.design (GraphQL) 
+- https://insomnia.rest  (REST)
+- https://altair.sirmuel.design (GraphQL) 
 
 ## 검색엔진
 - https://www.algolia.com
