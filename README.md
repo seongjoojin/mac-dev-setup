@@ -103,6 +103,11 @@ https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 
 `sudo vi ~/.zshrc`
 
+## 유용한 커맨드 라인 도구
+
+- [bat](https://github.com/sharkdp/bat)
+- [exa](https://github.com/ogham/exa)
+
 ## 커맨드라인 인터페이스 도구
 
 - [nvm](https://github.com/creationix/nvm) : 노드 버전 관리
