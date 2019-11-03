@@ -52,8 +52,7 @@ cask "pgadmin4"
 cask "mongodb-compass"
 #cask "slack"
 cask "docker"
-tap "adoptopenjdk/openjdk"
-cask "homebrew/cask-versions/adoptopenjdk8"
+cask "zulu11"
 
 # brew cask install apps
 # cask "mounty"
