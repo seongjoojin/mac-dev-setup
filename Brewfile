@@ -24,6 +24,7 @@ brew "mysql@5.7"
 #brew "git-flow"
 brew "python3"
 brew "watchman"
+brew "golang"
 
 # brew cask install dev-tools
 cask "bartender"
