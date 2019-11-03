@@ -119,6 +119,16 @@ git config --global user.name "Seongjoo Jin"
 git config --global user.email "evanjin8@gmail.com"
 ```
 
+## mysql 설정
+
+설치 : `brew install mysql@5.7`
+
+서비스 시작 : `brew services start mysql@5.7`
+
+비밀번호 설정 : `mysql_secure_installation`
+
+mysql 실행 : `mysql -u root -p`
+
 ## 언어
 
 - Vue CLI
