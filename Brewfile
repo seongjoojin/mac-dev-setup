@@ -26,6 +26,10 @@ brew "mysql@5.7"
 brew "python3"
 brew "watchman"
 brew "golang"
+brew "zsh"
+brew "zsh-autosuggestions"
+brew "zsh-completions"
+brew "zsh-syntax-highlighting"
 
 # brew cask install dev-tools
 cask "bartender"
