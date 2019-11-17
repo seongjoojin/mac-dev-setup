@@ -49,7 +49,7 @@ brew install yarn
 
 ## 터미널
 
-- [alacritty](https://github.com/jwilm/alacritty)
+- [hyper](https://hyper.is/) => [awesome-hyper](https://github.com/bnb/awesome-hyper), 저장소 `.hyper.js` 참고
 - [iTerm2](https://www.iterm2.com/)
 - iTerm2 Color Scheme - [Adventure Time](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/AdventureTime.itermcolors)
 - fish
