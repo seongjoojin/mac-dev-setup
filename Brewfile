@@ -42,6 +42,7 @@ cask "mongodb-community"
 cask "ngrok"
 cask "balenaetcher"
 cask "iterm2"
+cask "hyper"
 #cask "postman"
 #cask "insomnia"
 cask "paw"
@@ -58,14 +59,14 @@ cask "pgadmin4"
 cask "mongodb-compass"
 #cask "slack"
 cask "docker"
-cask "zulu11"
+#cask "zulu11"
 
 # brew cask install apps
 # cask "mounty"
 cask "alfred"
 cask "bitwarden"
 cask "dash"
-cask "keepingyouawake"
+#cask "keepingyouawake"
 #cask "iglance"
 #cask "cakebrew"
 #cask "karabiner-elements"
@@ -95,6 +96,7 @@ mas "Spark - Email App by Readdle", id: 1176895641
 mas "Bear", id: 1091189122
 #mas "LastPass Password Manager", id: 926036361
 mas "Monity", id: 915542151
+mas "Rocket Fuel", id: 1114196460
 mas "미세몬 - 미세먼지, 대기오염 위젯 (MiseMon)", id: 1370976940
 mas "Trello", id: 1278508951
 mas "Things3", id: 904280696
