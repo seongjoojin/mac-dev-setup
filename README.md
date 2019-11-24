@@ -129,6 +129,13 @@ git config --global user.email "evanjin8@gmail.com"
 
 mysql 실행 : `mysql -u root -p`
 
+
+## mongodb 설정
+
+설치 : `brew install mongodb-community`
+
+실행 : `brew services start mongodb/brew/mongodb-community`
+
 ## 언어
 
 - Vue CLI
