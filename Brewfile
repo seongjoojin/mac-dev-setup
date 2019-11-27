@@ -85,6 +85,7 @@ cask "font-nanumgothic"
 cask "font-nanummyeongjo"
 cask "font-source-code-pro"
 cask "font-fira-code"
+cask "font-hack-nerd-font"
 
 # brew cask install browsers
 cask "google-chrome"
