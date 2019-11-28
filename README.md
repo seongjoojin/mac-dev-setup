@@ -15,6 +15,12 @@ https://support.apple.com/ko-kr/HT204904
 https://pqrs.org/osx/karabiner/
 키보드 맵핑 변경
 
+##### dns 설정
+
+- Cloudflare https://1.1.1.1/ko-KR/dns/
+- Google https://developers.google.com/speed/public-dns
+- IBM https://www.quad9.net/apple/
+
 ##### 자주 사용하는 프로그램 설치는 Homebrew 사용
 
 ```
