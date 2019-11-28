@@ -94,7 +94,7 @@ cask "homebrew/cask-versions/firefox-developer-edition"
 cask "brave-browser"
 
 # Mac Appstore
-mas "Spark - Email App by Readdle", id: 1176895641
+#mas "Spark - Email App by Readdle", id: 1176895641
 mas "Bear", id: 1091189122
 #mas "LastPass Password Manager", id: 926036361
 mas "Monity", id: 915542151
