@@ -75,7 +75,7 @@ cask "appcleaner"
 cask "ccleaner"
 cask "avast-security"
 #cask "signal"
-cask "homebrew/cask/notion"
+#cask "homebrew/cask/notion"
 cask "iina"
 cask "adguard"
 
