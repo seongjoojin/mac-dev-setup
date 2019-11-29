@@ -80,17 +80,6 @@ https://starship.rs/guide/#🚀-installation
 curl -L https://get.oh-my.fish | fish
 ```
 
-oh-my-fish 테마 설정
-https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md
-
-```
-# zsh-syntax-highlighting
-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
-
-# zsh-autosuggestions
-git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
-```
-
 - fish shell config 파일 작성
 
 `sudo vi ~/.config/fish/config.fish`
@@ -100,6 +89,17 @@ git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh
 ```
 # oh-my-zsh 설치
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"
+```
+
+oh-my-fish 테마 설정
+https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md
+
+```
+# zsh-syntax-highlighting
+git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+
+# zsh-autosuggestions
+git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh-autosuggestions
 ```
 
 oh-my-zsh 테마 설정
