@@ -104,7 +104,7 @@ git clone git://github.com/zsh-users/zsh-autosuggestions $ZSH_CUSTOM/plugins/zsh
 
 .zshrc 설정
 
-`plugins=(git colored-man colorize pip python brew osx zsh-syntax-highlighting zsh-autosuggestions)`
+`plugins=(git pip python brew osx zsh-syntax-highlighting zsh-autosuggestions)`
 
 oh-my-zsh 테마 설정
 https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
