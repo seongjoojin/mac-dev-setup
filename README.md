@@ -234,6 +234,12 @@ yarn global add @vue/cli
 
 ## ETC
 
+#### git commit
+
+- https://gitmoji.carloscuesta.me/
+- https://github.com/ngryman/cz-emoji
+- https://github.com/commitizen/cz-cli
+
 #### 디자인 툴
 
 - [figma](https://www.figma.com/)
