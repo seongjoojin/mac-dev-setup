@@ -200,6 +200,7 @@ yarn global add @vue/cli
 
 ## 구글 확장 프로그램
 
+- Darkr Rader : 다크모드를 해줌
 - TrafficLight
 - Vue.js devtools : https://kr.vuejs.org/v2/api/index.html#devtools (app.js 설정)
 - Wappalyzer
