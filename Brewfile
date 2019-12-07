@@ -97,6 +97,8 @@ cask "brave-browser"
 #mas "Spark - Email App by Readdle", id: 1176895641
 mas "Bear", id: 1091189122
 #mas "LastPass Password Manager", id: 926036361
+#mas "PRO Disk Cleaner", id: 1231405402
+#mas "iStat Menus", id: 1319778037
 mas "Monity", id: 915542151
 mas "Rocket Fuel", id: 1114196460
 mas "미세몬 - 미세먼지, 대기오염 위젯 (MiseMon)", id: 1370976940
