@@ -146,6 +146,10 @@ mysql 실행 : `mysql -u root -p`
 
 실행 : `brew services start mongodb/brew/mongodb-community`
 
+## heroku
+
+https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up
+
 ## 언어
 
 - Vue CLI
