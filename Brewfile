@@ -32,6 +32,7 @@ brew "zsh-autosuggestions"
 brew "zsh-completions"
 brew "zsh-syntax-highlighting"
 brew "mongodb-community"
+brew "heroku/brew/heroku"
 
 # brew cask install dev-tools
 cask "bartender"
