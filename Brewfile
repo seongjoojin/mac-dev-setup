@@ -32,9 +32,10 @@ brew "zsh-autosuggestions"
 brew "zsh-completions"
 brew "zsh-syntax-highlighting"
 brew "mongodb-community"
-brew "heroku/brew/heroku"
+brew "heroku/brew"
 
 # brew cask install dev-tools
+cask "heroku"
 cask "bartender"
 cask "cleanmymac"
 cask "istat-menus"
@@ -92,7 +93,7 @@ cask "font-hack-nerd-font"
 # brew cask install browsers
 cask "google-chrome"
 cask "chromium"
-cask "homebrew/cask-versions/firefox-developer-edition"
+cask "firefox-developer-edition"
 cask "brave-browser"
 
 # Mac Appstore
