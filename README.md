@@ -167,9 +167,7 @@ yarn global add @vue/cli
 ## 프로그램
 
 - [Bear](https://apps.apple.com/kr/app/%EB%B2%A0%EC%96%B4-%EC%9E%91%EB%AC%B8-%EB%B0%8F-markdown-%ED%8E%B8%EC%A7%91%EC%9E%90/id1091189122?mt=12)
-- [Spark](https://apps.apple.com/kr/app/spark-email-app-by-readdle/id1176895641?mt=12)
 - [Dato](https://apps.apple.com/us/app/dato/id1470584107?mt=12)
-- [Brooklyn](https://github.com/pedrommcarrasco/Brooklyn)
 - [gitkraken](https://www.gitkraken.com/git-client)
 - [AppCleaner](http://freemacsoft.net/appcleaner/)
 - [Visual Studio Code](https://code.visualstudio.com/)
@@ -178,42 +176,28 @@ yarn global add @vue/cli
 - [Postman](https://www.getpostman.com/)
 - [TunnelBear](https://www.tunnelbear.com/)
 - [Slack](https://slack.com/)
-- [KeepingYouAwake](https://github.com/newmarcel/KeepingYouAwake)
 - [virtualbox](https://www.virtualbox.org/) -> https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 - [ridibooks](https://ridibooks.com/support/app/download)
 - [MindNode 5](https://itunes.apple.com/app/mindnode-5/id1289197285?l=en&mt=12&ign-mpt=uo%3D4)
 - [Evernote](https://itunes.apple.com/us/app/evernote/id281796108?mt=8)
-- [Popclip](https://apps.apple.com/kr/app/popclip/id445189367?mt=12)
 - [Magnet](https://itunes.apple.com/us/app/magnet/id441258766?mt=12)
 - [Foldery](https://apps.apple.com/kr/app/foldery/id815333099?mt=12)
 - [Bandizip](https://apps.apple.com/kr/app/반디집-압축-및-압축해제-프로그램/id1265704574?mt=12)
-- [Allkdic](https://apps.apple.com/kr/app/allkdic-handy-dictionary-in-status-bar/id1033453958?l=en&mt=12)
-- [iGlance](https://github.com/iglance/iGlance) : macOS System Monitor for the Status Bar
 - [things3](https://culturedcode.com/things/mac/appstore/)
 - [Trello](https://itunes.apple.com/us/app/trello/id1278508951?mt=12)
 - [Bartender](https://www.macbartender.com/) : 메뉴바 정리 앱
-- [mounty](http://www.enjoygineering.com/mounty/)
-- [cakebrew](https://www.cakebrew.com/)
 - [docker](https://hub.docker.com/editions/community/docker-ce-desktop-mac)
 - [miniconda](https://docs.conda.io/en/latest/miniconda.html)
   - 설치 : `$ bash Miniconda3-latest-MacOSX-x86_64.sh`
   - 터미널에서 실행 : `export PATH="$HOME/miniconda3/bin:$PATH"`
-- [Sniper](https://github.com/sniper-internet/Sniper-desktop-release)
 
 참고 : https://github.com/iCHAIT/awesome-macOS
 
 ## 구글 확장 프로그램
-
-- Darkr Rader : 다크모드를 해줌
 - TrafficLight
 - Vue.js devtools : https://kr.vuejs.org/v2/api/index.html#devtools (app.js 설정)
 - Wappalyzer
-- CSS3 Generator
-- Site Palette
 - React Developer Tools
-- Awesome Screenshot
-- VisBug (디자인과 협업하기 좋음)
-- Momentum
 - Octotree (깃허브 소스 보기)
 - Great Suspender (탭 관리)
 
@@ -230,16 +214,6 @@ $ xcode-select --install
 
 - [EditorConfig](https://editorconfig.org) 설정 - https://gist.github.com/seongjoojin/7c664b2fd78aa526924c1d746df52ab3
 - typescriptreact snippet - https://gist.github.com/seongjoojin/c0d9220c371dde09f92c0610be52ba76
-
-## Visual Studio Code 확장프로그램
-
-- [Vue Development Extension Pack](https://marketplace.visualstudio.com/items?itemName=changjoo-park.vscode-vue-devpack)
-- [indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow)
-- [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
-- [Project Manager](https://marketplace.visualstudio.com/items?itemName=alefragnani.project-manager)
-- [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
-- [vscode-styled-components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components)
-- [Peacock](https://marketplace.visualstudio.com/items?itemName=johnpapa.vscode-peacock)
 
 ## Visual Studio Code 테마
 
@@ -269,8 +243,7 @@ $ xcode-select --install
 - [XEIcon](https://xpressengine.github.io/XEIcon/)
 - [Font Awesome](https://fontawesome.com/)
 - [Moment.js](https://momentjs.com/)
-- [awesome-vue](https://github.com/vuejs/awesome-vue)
-- [awesome-nuxt](https://github.com/nuxt-community/awesome-nuxt)
+
 
 #### 기술 블로그
 
