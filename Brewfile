@@ -49,12 +49,11 @@ cask "hyper"
 #cask "postman"
 #cask "insomnia"
 cask "paw"
-cask "altair-graphql-client"
-cask "figma"
+#cask "altair-graphql-client"
+#cask "figma"
 cask "gitkraken"
 #cask "fork"
 cask "visual-studio-code"
-#cask "visual-studio-code-insiders"
 cask "zeplin"
 cask "mysqlworkbench"
 #cask "fork"
@@ -71,14 +70,9 @@ cask "alfred"
 cask "bitwarden"
 cask "dash"
 #cask "keepingyouawake"
-#cask "iglance"
-#cask "cakebrew"
-#cask "karabiner-elements"
 cask "appcleaner"
 cask "ccleaner"
-cask "avira-antivirus"
-#cask "signal"
-#cask "homebrew/cask/notion"
+#cask "avira-antivirus"
 cask "iina"
 cask "adguard"
 
@@ -97,7 +91,6 @@ cask "firefox-developer-edition"
 cask "brave-browser"
 
 # Mac Appstore
-#mas "Spark - Email App by Readdle", id: 1176895641
 mas "Bear", id: 1091189122
 #mas "LastPass Password Manager", id: 926036361
 #mas "PRO Disk Cleaner", id: 1231405402
