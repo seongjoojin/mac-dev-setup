@@ -217,6 +217,15 @@ yarn global add @vue/cli
 - Octotree (깃허브 소스 보기)
 - Great Suspender (탭 관리)
 
+## node-gyp 오류시 해결 방법
+
+https://github.com/nodejs/node-gyp/blob/master/macOS_Catalina.md
+
+```bash
+$ sudo rm -rf $(xcode-select -print-path)
+$ xcode-select --install
+```
+
 ## Visual Studio Code 추가 설정
 
 - [EditorConfig](https://editorconfig.org) 설정 - https://gist.github.com/seongjoojin/7c664b2fd78aa526924c1d746df52ab3
