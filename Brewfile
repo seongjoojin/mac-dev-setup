@@ -64,7 +64,7 @@ cask "pgadmin4"
 cask "mongodb-compass"
 #cask "slack"
 cask "docker"
-#cask "zulu11"
+#cask "eclipse-java"
 
 # brew cask install apps
 # cask "mounty"
