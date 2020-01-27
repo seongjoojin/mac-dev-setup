@@ -8,6 +8,7 @@ tap "homebrew/services"
 tap "homebrew/cask-drivers"
 tap "homebrew/cask-fonts"
 tap "mongodb/brew"
+#tap "AdoptOpenJDK/openjdk"
 
 # brew installs
 brew "fish"
@@ -33,6 +34,7 @@ brew "zsh-completions"
 brew "zsh-syntax-highlighting"
 brew "mongodb-community"
 brew "heroku/brew"
+#brew "adoptopenjdk"
 
 # brew cask install dev-tools
 cask "heroku"
