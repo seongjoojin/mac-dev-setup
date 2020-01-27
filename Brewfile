@@ -72,7 +72,7 @@ cask "dash"
 #cask "keepingyouawake"
 cask "appcleaner"
 cask "ccleaner"
-#cask "avira-antivirus"
+cask "avast-security"
 cask "iina"
 cask "adguard"
 
