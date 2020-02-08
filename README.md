@@ -56,6 +56,9 @@ brew install yarn
 ## 터미널
 
 - [hyper](https://hyper.is/) => [awesome-hyper](https://github.com/bnb/awesome-hyper), 저장소 `.hyper.js` 참고
+
+`hyper i hyper-opacity hypercwd hyperline hyper-tabs-enhanced hyperpower hyper-material-theme`
+
 - [iTerm2](https://www.iterm2.com/)
 - iTerm2 Color Scheme - [Adventure Time](https://github.com/mbadolato/iTerm2-Color-Schemes/blob/master/schemes/AdventureTime.itermcolors)
 - fish
