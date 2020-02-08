@@ -37,7 +37,8 @@ module.exports = {
       lightBlue: "#6A76FB",
       lightMagenta: "#FD7CFC",
       lightCyan: "#68FDFE",
-      lightWhite: "#FFFFFF"
+      lightWhite: "#FFFFFF",
+      opacity: 0.85
     },
     shell: "",
     shellArgs: ["--login"],
@@ -63,7 +64,6 @@ module.exports = {
     "hypercwd",
     "hyperline",
     "hyper-tabs-enhanced",
-    "hyper-opacity",
     "hyperpower",
     "hyper-material-theme"
   ],
