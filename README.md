@@ -114,6 +114,10 @@ https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
 oh-my-zsh 테마 설정
 https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
 
+powerlevel10k
+
+https://github.com/romkatv/powerlevel10k#oh-my-zsh
+
 - zsh shell config 파일 작성
 
 `sudo vi ~/.zshrc`
