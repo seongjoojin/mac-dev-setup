@@ -34,6 +34,7 @@ brew "mongodb-community"
 brew "heroku/brew"
 brew "heroku"
 #brew "adoptopenjdk"
+#brew "angular-cli"
 
 # brew cask install dev-tools
 cask "bartender"
