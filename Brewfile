@@ -30,9 +30,10 @@ brew "zsh"
 brew "zsh-autosuggestions"
 brew "zsh-completions"
 brew "zsh-syntax-highlighting"
-brew "mongodb-community"
-brew "heroku/brew"
-brew "heroku"
+brew "mongodb-community"'
+#brew "kotlin"
+#brew "heroku/brew"
+#brew "heroku"
 #brew "adoptopenjdk"
 #brew "angular-cli"
 
