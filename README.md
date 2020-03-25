@@ -1,5 +1,9 @@
 # Mac 환경 설정 모음
 
+#### homebrew 권한 문제 해결 gist
+
+https://gist.github.com/irazasyed/7732946
+
 #### 개발자를 위한 OS X(>= Catalina) 설정
 
 https://www.sangkon.com/osx-setting-for-developer/
