@@ -66,6 +66,7 @@ cask "mongodb-compass"
 cask "docker"
 #cask "eclipse-java"
 #cask "android-studio"
+cask "react-native-debugger"
 
 # brew cask install apps
 # cask "mounty"
