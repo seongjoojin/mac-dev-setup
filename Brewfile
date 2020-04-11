@@ -74,6 +74,7 @@ cask "alfred"
 cask "appcleaner"
 cask "iina"
 cask "adguard"
+#cask "malwarebytes"
 
 # fonts
 cask "font-jetbrains-mono"
