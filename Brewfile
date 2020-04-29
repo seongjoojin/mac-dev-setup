@@ -34,7 +34,6 @@ brew "mongodb-community"'
 #brew "kotlin"
 #brew "heroku/brew"
 #brew "heroku"
-#brew "adoptopenjdk"
 #brew "angular-cli"
 
 # brew cask install dev-tools
@@ -67,6 +66,8 @@ cask "docker"
 #cask "eclipse-java"
 #cask "android-studio"
 cask "react-native-debugger"
+cask "adoptopenjdk/openjdk/adoptopenjdk8"
+cask "android-platform-tools"
 
 # brew cask install apps
 # cask "mounty"
