@@ -76,6 +76,7 @@ cask "appcleaner"
 cask "iina"
 cask "adguard"
 #cask "malwarebytes"
+#cask "rectangle"
 
 # fonts
 cask "font-jetbrains-mono"
@@ -98,10 +99,11 @@ mas "Enpass - Password Manager", id: 732710998
 mas "PRO Disk Cleaner", id: 1231405402
 #mas "iStat Menus", id: 1319778037
 mas "Monity", id: 915542151
+mas "Next Meeting", id: 1017470484
 mas "Rocket Fuel", id: 1114196460
 mas "미세몬 - 미세먼지, 대기오염 위젯 (MiseMon)", id: 1370976940
-mas "Trello", id: 1278508951
-mas "Things3", id: 904280696
+#mas "Trello", id: 1278508951
+#mas "Things3", id: 904280696
 #mas "Pages", id: 409201541
 #mas "Keynote", id: 409183694
 #mas "Numbers", id: 409203825
@@ -123,3 +125,4 @@ mas "Telegram", id: 747648890
 mas "Affinity Photo", id: 824183456
 mas "Affinity Designer", id: 824171161
 mas "Xcode", id: 497799835
+
