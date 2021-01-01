@@ -37,7 +37,7 @@ brew "mongodb-community"'
 #brew "angular-cli"
 
 # brew cask install dev-tools
-cask "bartender"
+cask "kite"
 cask "cleanmymac"
 cask "istat-menus"
 cask "jetbrains-toolbox"
