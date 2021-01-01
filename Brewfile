@@ -8,7 +8,7 @@ tap "homebrew/services"
 tap "homebrew/cask-drivers"
 tap "homebrew/cask-fonts"
 tap "mongodb/brew"
-#tap "AdoptOpenJDK/openjdk"
+tap "AdoptOpenJDK/openjdk"
 
 # brew installs
 brew "fish"
@@ -66,7 +66,7 @@ cask "docker"
 #cask "eclipse-java"
 #cask "android-studio"
 cask "react-native-debugger"
-cask "adoptopenjdk/openjdk/adoptopenjdk8"
+cask "adoptopenjdk8"
 cask "android-platform-tools"
 
 # brew cask install apps
