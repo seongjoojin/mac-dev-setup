@@ -81,17 +81,18 @@ cask "adguard"
 # fonts
 cask "font-jetbrains-mono"
 cask "font-d2coding"
-cask "font-nanumgothic"
-cask "font-nanummyeongjo"
-cask "font-source-code-pro"
-cask "font-fira-code"
+#cask "font-nanumgothic"
+#cask "font-nanummyeongjo"
+#cask "font-source-code-pro"
+#cask "font-fira-code"
 
 # brew cask install browsers
-cask "google-chrome"
-cask "firefox"
+#cask "google-chrome"
+#cask "firefox"
 #cask "chromium"
 #cask "firefox-developer-edition"
 cask "brave-browser"
+cask "microsoft-edge"
 
 # Mac Appstore
 mas "Bear", id: 1091189122
