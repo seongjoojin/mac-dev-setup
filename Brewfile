@@ -98,6 +98,7 @@ cask "microsoft-edge"
 #mas "Bear", id: 1091189122
 mas "PRO Disk Cleaner", id: 1231405402
 #mas "iStat Menus", id: 1319778037
+mas "Hidden Bar", id: 1452453066
 mas "Monity", id: 915542151
 mas "Next Meeting", id: 1017470484
 mas "Rocket Fuel", id: 1114196460
