@@ -95,8 +95,7 @@ cask "brave-browser"
 cask "microsoft-edge"
 
 # Mac Appstore
-mas "Bear", id: 1091189122
-mas "Enpass - Password Manager", id: 732710998
+#mas "Bear", id: 1091189122
 mas "PRO Disk Cleaner", id: 1231405402
 #mas "iStat Menus", id: 1319778037
 mas "Monity", id: 915542151
