@@ -100,20 +100,46 @@ https://github.com/ohmyzsh/ohmyzsh
 oh-my-fish 테마 설정
 https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md
 
-```
-# zsh-syntax-highlighting
-git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting
+추천 테마 powerlevel10k
+https://github.com/romkatv/powerlevel10k
 
-# zsh-autosuggestions
-git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions
+zinit(zsh 플러그인 매니저) 설치
+https://github.com/zdharma/zinit
+
+추천 플러그인 설치
+```
+zinit light zdharma/fast-syntax-highlighting
+zinit light zsh-users/zsh-autosuggestions
+zinit light zsh-users/zsh-completions
 ```
 
-https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md
-https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
+zsh plugin 설정
+https://github.com/ohmyzsh/ohmyzsh/wiki/Plugins
 
 .zshrc 설정
 
-`plugins=(git pip python brew osx zsh-syntax-highlighting zsh-autosuggestions)`
+```
+ZSH_THEME="powerlevel10k/powerlevel10k"
+
+plugins=(git
+  adb
+  brew
+  docker
+  docker-compose
+  iterm2
+  flutter
+  pod
+  python
+  node
+  react-native
+  xcode
+  yarn
+  gradle
+  gem
+  npm
+  npx
+  vscode)
+```
 
 oh-my-zsh 테마 설정
 https://github.com/robbyrussell/oh-my-zsh/wiki/Themes
