@@ -68,6 +68,7 @@ cask "docker"
 cask "react-native-debugger"
 cask "adoptopenjdk8"
 cask "android-platform-tools"
+cask "itsycal"
 
 # brew cask install apps
 # cask "mounty"
