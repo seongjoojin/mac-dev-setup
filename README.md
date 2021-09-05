@@ -52,11 +52,6 @@ brew install git
 brew install yarn
 ```
 
-## 폰트
-
-- [D2 Conding](https://github.com/naver/d2codingfont) : 코딩시 사용 (에디터 폰트설정)
-- [FiraCode](https://github.com/tonsky/FiraCode)
-
 ## 터미널
 
 - [hyper](https://hyper.is/) => [awesome-hyper](https://github.com/bnb/awesome-hyper), 저장소 `.hyper.js` 참고
@@ -185,60 +180,37 @@ mysql 실행 : `mysql -u root -p`
 
 실행 : `brew services start mongodb/brew/mongodb-community`
 
-## heroku
-
-https://devcenter.heroku.com/articles/getting-started-with-nodejs#set-up
-
-## 언어
-
-- Vue CLI
-
-```
-yarn global add @vue/cli
-```
-
-## 추가 설치 프로그램
-
-- [docker](https://hub.docker.com/?overlay=onboarding)
-- [postgresapp](https://postgresapp.com/downloads.html)
-- [pgadmin](https://www.pgadmin.org/download/)
 
 ## 프로그램
 
-- [Bear](https://apps.apple.com/kr/app/%EB%B2%A0%EC%96%B4-%EC%9E%91%EB%AC%B8-%EB%B0%8F-markdown-%ED%8E%B8%EC%A7%91%EC%9E%90/id1091189122?mt=12)
+- [Hidden Bar](https://apps.apple.com/kr/app/hidden-bar/id1452453066?mt=12)
 - [Dato](https://apps.apple.com/us/app/dato/id1470584107?mt=12)
-- [gitkraken](https://www.gitkraken.com/git-client)
+- [Rocket Fuel](https://apps.apple.com/kr/app/rocket-fuel/id1114196460?mt=12)
 - [AppCleaner](http://freemacsoft.net/appcleaner/)
 - [Visual Studio Code](https://code.visualstudio.com/)
 - [Google Chrome](https://www.google.co.kr/chrome/index.html)
 - [Mozilla Firefox Developer Edition](https://www.mozilla.org/ko/firefox/developer/)
-- [Postman](https://www.getpostman.com/)
-- [TunnelBear](https://www.tunnelbear.com/)
 - [Slack](https://slack.com/)
 - [virtualbox](https://www.virtualbox.org/) -> https://developer.microsoft.com/en-us/microsoft-edge/tools/vms/
 - [ridibooks](https://ridibooks.com/support/app/download)
 - [MindNode 5](https://itunes.apple.com/app/mindnode-5/id1289197285?l=en&mt=12&ign-mpt=uo%3D4)
-- [Evernote](https://itunes.apple.com/us/app/evernote/id281796108?mt=8)
 - [Magnet](https://itunes.apple.com/us/app/magnet/id441258766?mt=12)
 - [Foldery](https://apps.apple.com/kr/app/foldery/id815333099?mt=12)
 - [Bandizip](https://apps.apple.com/kr/app/반디집-압축-및-압축해제-프로그램/id1265704574?mt=12)
-- [things3](https://culturedcode.com/things/mac/appstore/)
 - [Trello](https://itunes.apple.com/us/app/trello/id1278508951?mt=12)
-- [Bartender](https://www.macbartender.com/) : 메뉴바 정리 앱
 - [docker](https://hub.docker.com/editions/community/docker-ce-desktop-mac)
-- [miniconda](https://docs.conda.io/en/latest/miniconda.html)
-  - 설치 : `$ bash Miniconda3-latest-MacOSX-x86_64.sh`
-  - 터미널에서 실행 : `export PATH="$HOME/miniconda3/bin:$PATH"`
 
 참고 : https://github.com/iCHAIT/awesome-macOS
 
 ## 구글 확장 프로그램
+
 - TrafficLight
-- Vue.js devtools : https://kr.vuejs.org/v2/api/index.html#devtools (app.js 설정)
 - Wappalyzer
 - React Developer Tools
-- Octotree (깃허브 소스 보기)
-- Great Suspender (탭 관리)
+- Redux DevTools
+- The Marvellous Suspender (탭 관리)
+- 파파고 번역 (Papago for Chrome)
+- Bitwarden
 
 ## node-gyp 오류시 해결 방법
 
@@ -254,11 +226,6 @@ $ xcode-select --install
 - [EditorConfig](https://editorconfig.org) 설정 - https://gist.github.com/seongjoojin/7c664b2fd78aa526924c1d746df52ab3
 - typescriptreact snippet - https://gist.github.com/seongjoojin/c0d9220c371dde09f92c0610be52ba76
 
-## Visual Studio Code 테마
-
-- [Snazzy Operator](https://marketplace.visualstudio.com/items?itemName=aaronthomas.vscode-snazzy-operator)
-- [Shades of Purple](https://marketplace.visualstudio.com/items?itemName=ahmadawais.shades-of-purple)
-
 ## ETC
 
 #### git commit
@@ -273,37 +240,3 @@ $ xcode-select --install
 - [adobe xd](https://www.adobe.com/kr/products/xd.html)
 - [sketch](https://www.sketch.com)
 
-#### 스타일 가이드
-
-- [awesome-style-guide](https://github.com/kciter/awesome-style-guide)
-
-#### 라이브러리들
-
-- [XEIcon](https://xpressengine.github.io/XEIcon/)
-- [Font Awesome](https://fontawesome.com/)
-- [Moment.js](https://momentjs.com/)
-
-
-#### 기술 블로그
-
-- [kakao 기술 블로그](http://tech.kakao.com/)
-- [우아한형제들 기술 블로그](http://woowabros.github.io/)
-- [Naver D2 개발 블로그](https://d2.naver.com/home)
-- [줌인터넷 기술블로그](https://zuminternet.github.io/)
-- [티몬 개발블로그](https://tmondev.blog.me/)
-- [Meetup : NHN TOAST](http://meetup.toast.com/)
-- [조대협의 블로그](http://bcho.tistory.com/)
-- [조인석의 브런치](https://brunch.co.kr/@insuk)
-- [jojoldu](http://jojoldu.tistory.com/)
-- [소용환의 생각저장소](http://www.sauru.so/)
-- [Wisoft Lab.](http://wisoft.tistory.com/)
-- [개발 책추천](http://blog.ngelmaum.org/category/%EB%AC%B8%ED%99%94%EC%9D%B4%EC%95%BC%EA%B8%B0)
-- [기발자](https://brunch.co.kr/@brunch92ny)
-
-#### 기타
-
-- [CSS 방법론](https://gomdoreepooh.github.io/notes/smacss-bem-oocss)
-- [Vue + ES6](https://joshua1988.github.io/es6-online-book/)
-- [HEX to RGB Converter](https://www.webpagefx.com/web-design/hex-to-rgb/)
-- [Webpack](https://d2.naver.com/helloworld/0239818)
-- [더 나은 웹](https://github.com/0vv/betterweb.kr)
