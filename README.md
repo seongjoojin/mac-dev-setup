@@ -29,7 +29,7 @@ https://pqrs.org/osx/karabiner/
 
 ```
 # Homebrew 설치
-/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 
 # 이 저장소 클론
 git clone https://github.com/seongjoojin/mac-dev-setup
@@ -51,6 +51,10 @@ brew install git
 # yarn 설치
 brew install yarn
 ```
+
+##### java 설치
+
+https://adoptium.net/?variant=openjdk8&jvmVariant=hotspot
 
 ## 터미널
 
