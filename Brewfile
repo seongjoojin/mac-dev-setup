@@ -71,6 +71,7 @@ cask "appcleaner"
 #cask "adguard"
 #cask "malwarebytes"
 #cask "rectangle"
+#cask "eul"
 
 # fonts
 cask "font-jetbrains-mono"
