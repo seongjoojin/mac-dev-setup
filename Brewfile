@@ -85,6 +85,7 @@ cask "naver-whale"
 
 # Mac Appstore
 mas "PRO Disk Cleaner", id: 1231405402
+#mas "Irvue", id: 1039633667
 #mas "iStat Menus", id: 1319778037
 mas "Hidden Bar", id: 1452453066
 #mas "Monity", id: 915542151
