@@ -102,14 +102,14 @@ https://github.com/oh-my-fish/oh-my-fish/blob/master/docs/Themes.md
 추천 테마 powerlevel10k
 https://github.com/romkatv/powerlevel10k
 
-zinit(zsh 플러그인 매니저) 설치
-https://github.com/zdharma/zinit
+zi(zsh 플러그인 매니저) 설치
+https://github.com/z-shell/zi/
 
 추천 플러그인 설치
 ```
-zinit light zdharma/fast-syntax-highlighting
-zinit light zsh-users/zsh-autosuggestions
-zinit light zsh-users/zsh-completions
+zi light zdharma/fast-syntax-highlighting
+zi light zsh-users/zsh-autosuggestions
+zi light zsh-users/zsh-completions
 ```
 
 zsh plugin 설정
