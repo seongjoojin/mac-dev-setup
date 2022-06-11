@@ -160,6 +160,7 @@ https://github.com/romkatv/powerlevel10k#oh-my-zsh
 
 - [nvm](https://github.com/creationix/nvm) : 노드 버전 관리
 - [n](https://github.com/tj/n) : 노드 버전 관리
+- [fnm](https://github.com/Schniz/fnm) : 노드 버전 관리
 - git
 
 ```
