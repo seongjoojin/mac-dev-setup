@@ -110,6 +110,9 @@ https://github.com/z-shell/zi/
 zi light zdharma/fast-syntax-highlighting
 zi light zsh-users/zsh-autosuggestions
 zi light zsh-users/zsh-completions
+zi load zdharma/fast-syntax-highlighting
+zi load zsh-users/zsh-autosuggestions
+zi load zsh-users/zsh-completions
 ```
 
 zsh plugin 설정
@@ -136,7 +139,6 @@ plugins=(git
   gradle
   gem
   npm
-  npx
   vscode)
 ```
 
